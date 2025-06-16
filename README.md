@@ -11,8 +11,8 @@ Please make sure you are aware and happy with this before using it.
 
 ### Opt-in
 
-To use the Query API support, you MUST opt-in by including an extra module to your dependencies alongside the No4j Java
-Driver. To ensure compatible versions, please use the Neo4j Java Driver BOM:
+To use the Query API support, you MUST opt-in by including an extra dependency to your dependencies alongside the 
+Noe4j Java Driver. To ensure compatible versions, please use the Neo4j Java Driver BOM:
 ```xml
 <dependencies>
     <dependency>
