@@ -3,7 +3,7 @@
 Starting with `6.0.0-alpha01` Neo4j Java Driver release, it is possible to connect to Neo4j Query API over HTTP protocol
 using an optional and experimental additional module.
 
-Just for clarity, this support is experimental and has a list on limitations. Some of them are covered listed 
+Just for clarity, this support is experimental and has a list on limitations. Some of them are listed 
 [here](https://github.com/neo4j/bolt-connection-java/blob/main/neo4j-bolt-connection-query-api/README.md#limitataions).
 Please make sure you are aware and happy with this before using it.
 
